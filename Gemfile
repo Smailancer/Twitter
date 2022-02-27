@@ -34,6 +34,8 @@ gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.8'
 gem 'gravatarify', '~> 3.1', '>= 3.1.1'
 gem 'sassc-rails', '>= 2.1.0'
 gem 'bootstrap', '~> 4.3', '>= 4.3.1'
+gem 'jsbundling-rails'
+gem 'cssbundling-rails'
 
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
